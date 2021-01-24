@@ -12,8 +12,8 @@ class TurboSort
 	        while(myArray[i]-- > 0) {
 	            System.out.println(i);
 	        }
-		}
-		return;
+	}
+	return;
     }
     
 	public static void main (String[] args) throws java.lang.Exception
