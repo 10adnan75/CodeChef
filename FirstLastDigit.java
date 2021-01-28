@@ -8,6 +8,10 @@ class FirstLastDigit
     public static void sumOfFirstLast(String num, int len) {
         int[] numDigits = new int[len];
         int myNum = Integer.parseInt(num);
+	if (myNum < 10) {
+	    System.out.println(myNum);
+ 	    return;
+	}
         int i = 0;
         while (myNum != 0) {
             numDigits[i] = myNum % 10;
