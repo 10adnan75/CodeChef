@@ -23,8 +23,8 @@ public class CheckLapindrome {
         }
         Arrays.sort(array1);
         Arrays.sort(array2);
-        System.out.println(array1);
-        System.out.println(array2);
+        //System.out.println(array1);
+        //System.out.println(array2);
         int k = 0;
         for(i=0; i<array1.length; i++) {
             if(array1[i]!=array2[i]) k = -1;
