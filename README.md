@@ -1,3 +1,3 @@
 # CodeChef
-## I have uploaded solutions to the problems on CodeChef.
-## All the programs have been written in java, c++ and python.
+## I have uploaded solutions to some of the problems on codechef.com
+## Languages -> java | c++ | python
